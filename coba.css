@@ -1,0 +1,19 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 500px 0px;
+}
+.kotak{
+    display: flex;
+    background-color: pink;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    font-size: 15px;
+    height: 100px;
+    width: 200px;
+    margin: 90px;
+border-radius: 30px;
+outline: 2px solid red;
+}
